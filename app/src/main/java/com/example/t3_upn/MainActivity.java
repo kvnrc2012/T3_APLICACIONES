@@ -1,9 +1,13 @@
 package com.example.t3_upn;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+// renato
 
-public class MainActivity extends AppCompatActivity {
+import android.support.v7.app.AppCompatActivity; 
+import android.os.Bundle; 
+
+// trabajo
+
+public class MainActivity extends AppCompatActivity { 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
